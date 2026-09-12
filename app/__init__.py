@@ -1,0 +1,1 @@
+# Mazaj Rituals API
